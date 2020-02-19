@@ -1,0 +1,1 @@
+INSERT INTO USUARIO(email, nome,senha) VALUES('leonardo@vilt-group.com','Admin','$2a$10$cAJZ1RaYJak4Pq6hFXCKA.faLx4ln3Pr0VKZs/hJ0vd9zHTFGuBfC');
