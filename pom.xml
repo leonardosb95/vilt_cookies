@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>br.com.vilt.cookies</groupId>
 	<artifactId>cookies</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>cookies</name>
 	<description>Srviço que organiza os colaboradores Cookies</description>
 
